@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    font-family: "Poppins", system-ui;
+}
+/* HEADER STYLES */
+
+header{
+    margin-bottom: 33px;
+}
+/* BODY STYLES */
+
+main{
+    
+}
+
+button{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: white;
+    border-color: lightgrey;
+    border-radius: 4px;
+}
+button:hover{
+    background-color: rgb(7, 162, 252);
+}
+#list {
+    width: 1345px;
+    margin-left: 286px;
+    background-color: white;
+}
